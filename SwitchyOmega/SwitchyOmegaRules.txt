@@ -181,5 +181,6 @@
 github.com +proxy
 *.oschina.com +direct
 *.stackoverflow.com +proxy
+*.dropbox.com +proxy
 
 * +direct
